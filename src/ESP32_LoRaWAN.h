@@ -9,7 +9,7 @@
 #include "utilities.h"
 #include "board-config.h"
 #include "LoRaMac.h"
-#include "Commissioning.h"
+//#include "Commissioning.h"
 #include "rtc-board.h"
 #include "delay.h"
 #include <Wire.h>  // Only needed for Arduino 1.6.5 and earlier
